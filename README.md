@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a custom PCB for my Dactyl Keyboard
 <!--
 **ThomasBoom89/ThomasBoom89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
