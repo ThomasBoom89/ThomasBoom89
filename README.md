@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Thomas and this is my Github Profile Page!
+
 - 🔭 I’m currently working on a custom PCB for my Dactyl Keyboard
 - 🌱 I’m currently learning KiCad / OpenSCAD
 
