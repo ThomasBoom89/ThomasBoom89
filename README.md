@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Thomas and this is my Github Profile Page!
+I am a Senior Software Engineer. My main programming languages are PHP, Javascript/Typescript and Golang.
 
 - 🔭 I’m currently working on a custom PCB for my Dactyl Keyboard
 - 🌱 I’m currently learning KiCad / OpenSCAD
