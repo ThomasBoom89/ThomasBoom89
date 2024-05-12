@@ -6,6 +6,10 @@ I am a Senior Software Engineer. My main programming languages are PHP, Javascri
 - 🔭 I’m currently working on a custom PCB for my Dactyl Keyboard
 - 🌱 I’m currently learning KiCad / OpenSCAD
 
+Check out my current Golang project. It is a simple message broker based on Web-Technologies.
+\
+https://github.com/ThomasBoom89/simple-http-message-queue
+
 <!--
 **ThomasBoom89/ThomasBoom89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
