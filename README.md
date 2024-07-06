@@ -1,18 +1,19 @@
 ### Hi there 👋
 
-My name is Thomas and this is my Github Profile Page!
-I am a Senior Software Engineer. My main programming languages are PHP, Javascript/Typescript and Golang.
+My name is Thomas and this is my Github Profile Page! I am a Senior Software Engineer.  
 
-- 🔭 I’m currently working on a custom PCB for my Dactyl Keyboard
-- 🌱 I’m currently learning KiCad / OpenSCAD
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasboom89&theme=nord&langs_count=5)  ![](https://github-readme-stats.vercel.app/api?username=thomasboom89&show_icons=true&theme=nord&line_height=30&show=reviews,prs_merged)
 
-Check out my current Golang/Svelte5 project. A proof of concept cross platfrom desktop api client.
-\
-https://github.com/ThomasBoom89/api-client
+Current Project
+---
+[![](https://github-readme-stats.vercel.app/api/pin/?username=thomasboom89&repo=api-client&theme=nord)](https://github.com/ThomasBoom89/api-client)
 
-Also check out my last Golang project. It is a simple message broker based on Web-Technologies.
-\
-https://github.com/ThomasBoom89/simple-http-message-queue
+Github Trophies  
+---
+![Trophy](https://github-profile-trophy.vercel.app/?username=thomasboom89&rank=A,AA,AAA,S,SS,SSS,SECRET&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&theme=nord)  
+
+---
+
 
 <!--
 **ThomasBoom89/ThomasBoom89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
