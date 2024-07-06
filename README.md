@@ -6,7 +6,7 @@ My name is Thomas and this is my Github Profile Page! I am a Senior Software Eng
 
 Current Project
 ---
-[![](https://github-readme-stats.vercel.app/api/pin/?username=thomasboom89&repo=api-client&theme=nord&show_owner=true)](https://github.com/ThomasBoom89/api-client)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=thomasboom89&theme=nord&repo=api-client)](https://github.com/ThomasBoom89/api-client)
 
 Github Trophies  
 ---
